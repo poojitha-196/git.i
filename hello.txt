@@ -1,0 +1,5 @@
+git init
+git status
+git add filename---staging area
+git commit -m "message"---local area
+git checkout -b "filename" --- jumping b/w branches
